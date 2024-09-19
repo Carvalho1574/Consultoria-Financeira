@@ -1,0 +1,18 @@
+/* Custom styles for the site */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header.jumbotron {
+    background-color: #007bff; /* Cor customizada para o banner */
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
